@@ -107,12 +107,12 @@
   <body>
     <div class="w3-row w3-card w3-white">
       <header id="header">
-        <a href="{{ SITEURL }}" id="header-logo" title="Home">{{ AUTHOR[0] + AUTHOR[AUTHOR.index(" ")+1] }}</a>
+        <a href="https://jorgegarcia.io" id="header-logo" title="Home">{{ AUTHOR[0] + AUTHOR[AUTHOR.index(" ")+1] }}</a>
         <nav id="header-menu">
           <ul>
             {% if DISPLAY_PAGES_ON_MENU %}
             {% for p in pages %}
-            <li{% if p==page %} class="active" {% endif %}><a href="{{ SITEURL }}">{{ p.title }}</a></li>
+            <li{% if p==page %} class="active" {% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
             {% endfor %}
             {% endif %}
             {% if DISPLAY_CATEGORIES_ON_MENU %}
