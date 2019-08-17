@@ -17,7 +17,7 @@
                 {{ article.content }}
                 <div class="clear"></div>
 
-                <div class="info">
+                {#<div class="info">
                     <a href="{{ SITEURL }}/{{ article.url }}">posted at {{ article.date.strftime("%H:%M") }}</a>
                     {% if article.category.name != "misc" %}
                     &nbsp;&middot;&nbsp;<a href="{{ SITEURL }}/{{ article.category.url }}" rel="tag">{{ article.category }}</a>
@@ -28,7 +28,7 @@
                     &nbsp;<a href="{{ SITEURL }}/{{ t.url }}" class="tags{% if tag and tag.name == t.name %} selected{% endif %}">{{ t }}</a>
                     {% endfor %}
                     {% endif %}
-                </div>
+                </div>#}
 		{% if articles_page and DISQUS_SITENAME %}
 		<a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">Click to read and post comments</a>
 		{% else %}
