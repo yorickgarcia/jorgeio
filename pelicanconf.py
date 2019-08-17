@@ -12,7 +12,7 @@ TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
 
-THEME = "bluepenguin"
+THEME = "minimalxy"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
