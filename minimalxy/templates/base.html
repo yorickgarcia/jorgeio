@@ -112,7 +112,7 @@
           <ul>
             {% if DISPLAY_PAGES_ON_MENU %}
             {% for p in pages %}
-            <li{% if p==page %} class="active" {% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+            <li{% if p==page %} class="active" {% endif %}><a href="{{ SITEURL }}">{{ p.title }}</a></li>
             {% endfor %}
             {% endif %}
             {% if DISPLAY_CATEGORIES_ON_MENU %}
