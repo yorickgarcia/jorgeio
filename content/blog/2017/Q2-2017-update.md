@@ -1,7 +1,9 @@
 Title: Twenty17 Q2 Updates
 Date: 2017-03-31
+Category: Blog
 
-Spring of 2017 is an exciting time for me. I am back at HWLC’s YOUmedia but this time as a Mentor. My title is “C.S. (Computer Science) & Maker Mentor”. That means I’ll be working to facilitate CS learning in YOUmedia as well as introducing and maintaining maker related equipment. Alongside that, I will continue working at the Maker Lab as a Maker Specialist II. I am glad to be back in one building and looking forward to the programming that I will be doing with both departments.
+
+Spring of 2017 is an exciting time for me. I am back at HWLC’s YOUmedia but this time as a Lead Mentor with a focus on Make Culture and Computer Science. That means I’ll be working to facilitate CS learning in YOUmedia as well as introducing and maintaining maker related equipment. Alongside that, I will continue working at the Maker Lab as the senior Maker Specialist II. I am glad to be back in one building and looking forward to the programming that I will be doing with both departments.
 
 I have added some content on my Projects page. It includes several but not all Finch documentation that I have created. I am often asked to share resources with teachers and other people I come across when discussing the Finch. That usually involves me sending an email and attaching these files. I have decided to post these files online so they can be accessed even when I forget to send an email. I have uploaded them to Google Drive and collected the links here.
 

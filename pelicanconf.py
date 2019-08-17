@@ -5,8 +5,9 @@ from __future__ import unicode_literals
 AUTHOR = 'Jorge Garcia'
 SITENAME = 'jorgegarcia.io'
 SITEURL = ''
-AUTHOR_INTRO = 'Jorge like forge or gorge.'
-AUTHOR_DESCRIPTION = u'Technology Advisor and  Educator. I like to learn stuff and make things.'
+AUTHOR_INTRO = u'Jorge like forge or gorge.'
+AUTHOR_DESCRIPTION = u'''Technology advisor and educator.
+                         I like to break things down and make things.'''
 
 PATH = 'content'
 
@@ -26,8 +27,9 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/yorickgarcia'),
           ('linkedin', 'http://linkedin.com/yorickgarcia'),
-          ('instagram', 'http://instagram.com/yorickgarcia'),
-          ('github', 'http://github.com/yorickgarcia'),)
+          ('github', 'http://github.com/yorickgarcia'),
+          ('reddit', 'http://reddit.com/u/yorickgarcia'),
+          ('instagram', 'http://instagram.com/yorickgarcia'),)
 
 DEFAULT_PAGINATION = 42
 
@@ -40,10 +42,11 @@ SITEDESCRIPTION = 'This is where Jorge lives.'
 # all defaults to True.
 DISPLAY_HEADER = True
 DISPLAY_FOOTER = True
-DISPLAY_HOME   = False
-DISPLAY_MENU   = True
+DISPLAY_HOME = False
+DISPLAY_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = False
-STATIC_PATHS = ['images', 'pdfs',]
+STATIC_PATHS = ['images', 'pdfs', 'jpg']
 
 # provided as examples, they make ‘clean’ urls. used by MENU_INTERNAL_PAGES.
 TAGS_URL           = 'tags'
@@ -68,4 +71,4 @@ MENUITEMS = (
     ('gallery', '/pages/gallery.html'),
     ('library', '/pages/library.html'),
     ('me', '/pages/me.html'),
-)
+ )

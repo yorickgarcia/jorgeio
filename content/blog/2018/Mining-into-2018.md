@@ -1,7 +1,8 @@
 Title: Mining into Twenty18
 Date: 2018-03-14
+Category: Blog
+![Image of my Ryzen Build]({filename}/images/rxseries.jpg)
 
-######Happy pi Day
 
 Early 2018 was a year in hardware for me. I upped my mining capabilities and that meant a lot of fun upgrades and moving stuff around.
 
