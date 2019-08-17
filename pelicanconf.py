@@ -46,6 +46,7 @@ DISPLAY_FOOTER = True
 DISPLAY_HOME   = False
 DISPLAY_MENU   = True
 DISPLAY_PAGES_ON_MENU = False
+STATIC_PATHS = ['images', 'pdfs',]
 
 # provided as examples, they make ‘clean’ urls. used by MENU_INTERNAL_PAGES.
 TAGS_URL           = 'tags'
