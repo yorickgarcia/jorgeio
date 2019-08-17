@@ -1,4 +1,4 @@
-Title: Mining into 2018
+Title: Mining into Twenty18
 Date: 2018-03-14
 
 ######Happy pi Day

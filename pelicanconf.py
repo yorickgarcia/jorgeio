@@ -5,6 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = 'Jorge Garcia'
 SITENAME = 'jorgegarcia.io'
 SITEURL = ''
+AUTHOR_INTRO = 'Jorge like forge or gorge.'
+AUTHOR_DESCRIPTION = u'Technology Advisor and  Educator. I like to learn stuff and make things.'
 
 PATH = 'content'
 
@@ -20,12 +22,6 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/yorickgarcia'),
