@@ -1,4 +1,4 @@
-Title: Me
+Title: About
 ____
 ##Social 
 @yorickgarcia

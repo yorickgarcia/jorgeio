@@ -1,9 +1,9 @@
-Title: 
+Title: Working out a few bugs & Creativity is Subtraction
 Date: 2019-07-21
 Category: Blog
 Tags: thoughts
 Author: Jorge Garcia
-Summary: 
+Summary: Struggling to decide what to share, to who, when, how and/or where to. I think I know the why...
 HeaderImage: /images/notaredbug.jpg
 HeaderImageCaption: This is not a red bug
 
