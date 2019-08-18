@@ -80,11 +80,12 @@ abbr[title] {
 }
 
 .caption {
+  display: block;
   text-align: center;
-  font-size: 10pt;
-  font-style: italic;
-  color: grey;
-  margin-bottom: 30px;
+  font-size: .90rem;
+  color: dimgrey;
+  margin-top: .21rem;
+  margin-bottom: 1rem;
 }
 
 .headerimage-article {
@@ -131,6 +132,7 @@ ul.social li a:hover {
   width: 60px;
   min-width: 60px; /* no resizing! */
   height: 60px;
+  border-radius: 42% 0% 0% 0%;
   display: inline-flex;
   justify-content: center;
   align-items: center;

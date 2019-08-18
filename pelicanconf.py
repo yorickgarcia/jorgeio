@@ -41,7 +41,7 @@ SITEDESCRIPTION = 'This is where Jorge lives.'
 
 # all defaults to True.
 DISPLAY_HEADER = True
-DISPLAY_FOOTER = True
+DISPLAY_FOOTER = False
 DISPLAY_HOME = False
 DISPLAY_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True

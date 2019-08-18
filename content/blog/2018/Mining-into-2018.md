@@ -1,17 +1,19 @@
 Title: Mining into Twenty18
 Date: 2018-03-14
 Category: Blog
-![Image of my Ryzen Build]({filename}/images/rxseries.jpg)
-
+Tags: #computers
+Author: Jorge Garcia
+Summary: Early 2018 was a year in hardware for me. I upped my mining capabilities and that meant a lot of fun upgrades and moving stuff around...
+HeaderImage: /images/rxseries.jpg
+HeaderImageCaption: RX VEGA 64 and RX 580, both from the Sapphire Nitro+ series.
 
 Early 2018 was a year in hardware for me. I upped my mining capabilities and that meant a lot of fun upgrades and moving stuff around.
 
 
 The first picture is one of an upgrade on my passive itx build into a 1600 which isn’t passive anymore (the picture is right to left, sorry).
 
-AM4 from AM1
-
-
+![AM4 from AM1]({static}/images/am1_to_am4.jpg)
+<span class="caption">AM4 from AM1<span>
 
 The next three are shots of it as it evolved. Starting with a 2400G
 
