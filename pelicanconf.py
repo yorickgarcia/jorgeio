@@ -6,8 +6,9 @@ AUTHOR = 'Jorge Garcia'
 SITENAME = 'jorgegarcia.io'
 SITEURL = ''
 AUTHOR_INTRO = u'Hello, I\'m Jorge.'
-AUTHOR_DESCRIPTION = u'I\'m a technology advisor and educator from Chicago.'
-AUTHOR_SAYS = u'Jorge like forge or gorge. I like to break things down and make things. Shoot me an email or @me on Twitter.'
+AUTHOR_INTRO2 = u'That\'s Jorge like forge or gorge.'
+AUTHOR_DESCRIPTION = u'I\'m a technology advisor and educator from Chicago. I like to break things down and make things.'
+AUTHOR_CONTACT = u'To best reach me, shoot me an email or @me on Twitter.'
 
 
 PATH = 'content'
