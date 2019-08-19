@@ -5,9 +5,10 @@ from __future__ import unicode_literals
 AUTHOR = 'Jorge Garcia'
 SITENAME = 'jorgegarcia.io'
 SITEURL = ''
-AUTHOR_INTRO = u'Jorge like forge or gorge.'
-AUTHOR_DESCRIPTION = u'''Technology advisor and educator.
-                         I like to break things down and make things.'''
+AUTHOR_INTRO = u'Hello, I\'m Jorge.'
+AUTHOR_DESCRIPTION = u'I\'m a technology advisor and educator from Chicago.'
+AUTHOR_SAYS = u'Jorge like forge or gorge. I like to break things down and make things. Shoot me an email or @me on Twitter.'
+
 
 PATH = 'content'
 
