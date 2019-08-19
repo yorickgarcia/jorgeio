@@ -90,7 +90,7 @@ abbr[title] {
 
 .headerimage-article {
   margin: auto;
-  max-width: 1100px;
+  max-width: 900px;
 }
 
 .headerimage-card {
@@ -251,12 +251,15 @@ ul.social li a:hover {
 }
 
 #content p {
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
   margin-top: 0;
   margin-bottom: 1.5rem;
 }
 
 #content p > img {
-  max-width: 100%;
+  max-width: 600px;
   display: block;
   margin: .42rem auto .42rem auto;
 }
