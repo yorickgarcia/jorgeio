@@ -8,7 +8,7 @@ SITEURL = ''
 AUTHOR_INTRO = u'Hello, I\'m Jorge.'
 AUTHOR_INTRO2 = u'That\'s Jorge like forge or gorge.'
 AUTHOR_DESCRIPTION = u'I\'m a technology advisor and educator from Chicago. I like to break things down and make things.'
-AUTHOR_CONTACT = u'To best reach me, shoot me an email to jorge@jorhegarcia.io or better yet, send me a text.'
+AUTHOR_CONTACT = u'To best reach me, shoot me an email at jorge@jorgegarcia.io or send me a text.'
 
 
 PATH = 'content'
