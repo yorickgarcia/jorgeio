@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+    <link href="https://fonts.googleapis.com/css?family=Bitter:400,700&display=swap" rel="stylesheet">
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
 
     <!-- Meta -->
@@ -118,12 +118,12 @@
             {% if DISPLAY_CATEGORIES_ON_MENU %}
             {% for cat, null in categories %}
             {% if cat != DEFAULT_CATEGORY %}
-            <li class="w3-bottombar w3-border-white w3-hover-border-purple" {% if cat == category %}style="font-weight: bold;"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+            <li class="w3-bottombar w3-border-white w3-hover-border-deep-purple" {% if cat == category %}style="font-weight: bold;"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
             {% endif %}
             {% endfor %}
             {% endif %}
             {% for title, link in MENUITEMS %}
-            <li class="w3-bottombar w3-border-white w3-hover-border-red"><a href="{{ link }}">{{ title }}</a></li>
+            <li class="w3-bottombar w3-border-white w3-hover-border-green"><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}
           </ul>
         </nav>

@@ -9,7 +9,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bitter', serif;
   line-height: 1.1;
 }
 
@@ -19,8 +19,8 @@ h1 {
 }
 
 h2 {
-  font-weight: bold;
-  font-size: 20pt;
+  font-weight: bolder;
+  font-size: 20px;
 }
 
 h3 {
@@ -33,6 +33,7 @@ h4 {
 }
 
 a {
+  font-family: 'Open Sans', 'sans-serif';
   text-decoration: none;
 }
 
@@ -59,7 +60,18 @@ abbr[title] {
   background: #81C784;
 }
 
+details {
+  font-family: 'Open Sans', sans-serif;
+  font-size: .90rem;
+  color: #81C784;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+summary::-webkit-details-marker {
+  color: transparent;
+}
 
 /* Classes */
 
@@ -76,10 +88,11 @@ abbr[title] {
 .post-info {
   display: flex;
   flex-wrap: wrap;
-  font-size: 13pt;
+  font-size: 15px;
 }
 
 .caption {
+  font-family: 'Open Sans', sans-serif;
   display: block;
   text-align: center;
   font-size: .90rem;
@@ -104,6 +117,11 @@ abbr[title] {
   max-width: 90%;
   display: block;
   margin: auto;
+}
+
+.tags {
+  margin-top:-16px;
+  margin-bottom: 10px;
 }
 
 ul.social {
@@ -184,7 +202,6 @@ ul.social li a:hover {
 
 #intro-description {
   font-family: 'Open Sans', sans-serif;
-  font-style: italic;
   font-size: 11pt;
 }
 
@@ -207,6 +224,11 @@ ul.social li a:hover {
 
 #listing article {
   padding: 30px;
+  font-family: Bitter;
+    color: rgba(33,33,33,1);
+    font-size: 15px;
+    line-height: 1.6;
+    padding-top: 6px;
 }
 
 #content {
@@ -256,11 +278,22 @@ ul.social li a:hover {
 }
 
 #content p {
+  font-family: 'Bitter', serif;
+  color: rgba(33,33,33,1);
+  font-size: 15px;
+  line-height: 1.6;
   max-width: 600px;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 0;
+  margin-top: 6px;
   margin-bottom: 1.5rem;
+}
+#content li {
+  font-family: 'Bitter';
+    color: rgba(33,33,33,1);
+    font-size: 15px;
+    line-height: 1.6;
+    padding-top: 6px;
 }
 
 #content p > img {
@@ -305,7 +338,6 @@ ul.social li a:hover {
 
 #author-story {
   font-size: 11pt;
-  font-style: italic;
 }
 
 #share a {
@@ -347,5 +379,21 @@ ul.social li a:hover {
 
   #share a span {
     display: inline;
+  }
+  .headerimage-article {
+    margin: auto auto 2rem auto;
+    display: block;
+    max-width: 90%;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid dimgrey;
+  }
+  
+  .headerimage-card {
+    margin: 0 -16px;
+  }
+  
+  .headerimage-card > img {
+    width: 100%;
+    margin: auto;
   }
 }
