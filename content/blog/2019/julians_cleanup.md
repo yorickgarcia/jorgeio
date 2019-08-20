@@ -1,7 +1,7 @@
 Title: Saving the Planet: A stroll with the boys
 Date: 2019-08-04
 Category: Blog
-Tags: crafts, sons, good
+Tags: community, sons
 Author: Jorge Garcia
 Summary: Julian wants to pick up trash at the park and make an art project with the gatherings. Not sure how he came to the idea but he’s been passionate about it for a few days. But first…
 HeaderImage: /images/julians_cleanup.jpg

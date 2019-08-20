@@ -1,5 +1,5 @@
 Title: Cardio audio, jog my brain
 Date: 2019-07-05
 Category: Blog
-Tags: gram, bikeride
+Tags: thoughts
 HeaderImage: /images/cardioaudio.jpg

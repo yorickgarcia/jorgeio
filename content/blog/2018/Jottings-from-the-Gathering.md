@@ -1,7 +1,7 @@
 Title: Jottings from the Gathering - Scratch 2018
 Date: 2018-08-01
 Category: Blog
-Tags: notes
+Tags: notes, scratch
 Author: Jorge Garcia
 Summary: Late July 2018, I got a chance to travel to Boston/Cambridge to attend the Scratch Conference. This is my second time attending the conference, the last time I visited, I had no experience with Scratch and was unaware of its community. In that first visit, my goal was to learn about the tool and how I could bring back what I learned to help the circulation of Finch Robots through the Chicago Public Library. Since then I have used Scratch to teach adults, teens, and children alike – the basics of programming and I usually include the Finch in those workshops. In almost every outreach activity I do with the library, the Finch robots are there with me. I have three main ways I like to showcase using the Finch; controlling the Finch, reading data from the Finch, and using the Finch as an input device. In usual fashion, I brought the Finch along with me to Scratch Conference 2018 to have some fun during my off time. I instead found a new gadget that has absorbed me since I arrived at the airport to return to Chicago, the BBC micro:bit. Along with the new bot, I made new friends and connections that will propel my purpose in using Scratch for years to come.
 HeaderImage:

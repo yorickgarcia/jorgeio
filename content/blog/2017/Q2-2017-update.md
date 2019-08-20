@@ -1,7 +1,7 @@
 Title: Twenty17 Q2 Updates
 Date: 2017-03-31
 Category: Blog
-Tags: worklife, computers, ryzen
+Tags: worklife, computers
 Slug:
 Author: Jorge Garcia
 Summary: Spring of 2017 is an exciting time for me. I am back at HWLC’s YOUmedia but this time as a Lead Mentor with a focus on Make Culture and Computer Science. That means I’ll be working to facilitate CS learning in YOUmedia as well as introducing and maintaining maker related equipment. Alongside that, I will continue working at the Maker Lab as the senior Maker Specialist II. I am glad to be back in one building and looking forward to the programming that I will be doing with both departments...
