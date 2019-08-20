@@ -120,7 +120,7 @@ summary::-webkit-details-marker {
 }
 
 .tags {
-  margin-top:-16px;
+  margin-top:5px;
   margin-bottom: 10px;
 }
 
@@ -392,6 +392,7 @@ ul.social li a:hover {
   
   .headerimage-card {
     margin: 0 -16px;
+    display: flex;
   }
   
   .headerimage-card > img {

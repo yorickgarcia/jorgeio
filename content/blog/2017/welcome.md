@@ -1,7 +1,7 @@
 Title:Welcome to my site.
 Date: 2017-01-17
 Category: Blog
-Tags: personal, worklife
+Tags: personal, worklife, website
 Slug:
 Author: Jorge Garcia
 Summary: If you’ve stumbled upon this site (at least in 2017), it is probably because you received an email from me and you’re wondering about the domain...

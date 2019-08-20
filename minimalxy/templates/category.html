@@ -26,18 +26,24 @@
                 <span><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>{# in <a href="{{ SITEURL }}/{{ article.category.url }}" title="All articles in category {{ article.category }}">{{ article.category }}</a>#}</span>
               </div>
             </div>
-          {% if article.headerimage %}
+          
           <div class="headerimage-card">
+          {% if article.headerimage %}
             <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ article.headerimage }}" style="max-width: 400px; max-height: 400px; margin: auto; "></img></a>
+              {% endif %}
+              <div class="entry-content" style="padding: 2rem;">
+                {{ article.summary|striptags }}
+              </div>
           </div>
-          {% endif %}
+          <footer>
+          <a class="w3-btn w3-deep-purple w3-right" href="{{ SITEURL }}/{{ article.url }}">Read More</a>
+        </footer>
+          
           
           
         </header>
 
-        <div class="entry-content" style="padding: 2rem">
-          {{ article.summary|striptags }}
-        </div>
+        
         {% if article.tags %}
               <div class="tags">
                 {% for tag in article.tags %}
@@ -48,9 +54,7 @@
               </div>
               {% endif %}
 
-        <footer>
-          <a class="w3-btn w3-deep-purple w3-right" href="{{ SITEURL }}/{{ article.url }}">Read More</a>
-        </footer>
+        
       </article>
 
       <br><br><br>

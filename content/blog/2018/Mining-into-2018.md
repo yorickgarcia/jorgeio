@@ -1,7 +1,7 @@
 Title: Mining into Twenty18
 Date: 2018-03-14
 Category: Blog
-Tags: #computers
+Tags: computers
 Author: Jorge Garcia
 Summary: Early 2018 was a year in hardware for me. I upped my mining capabilities and that meant a lot of fun upgrades and moving stuff around...
 HeaderImage: /images/rxseries.jpg
