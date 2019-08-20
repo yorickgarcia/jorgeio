@@ -4,7 +4,7 @@
 
     {% block content %}
 
-    <br><br><br>
+    <br>
 
     <article>
       <header class="w3-container col-main">
@@ -50,7 +50,8 @@
                 <a href="{{ AUTHOR_WEB }}"><img style="width: 60px; height: 60px;" src="{{ AUTHOR_AVATAR }}" onerror="this.src='theme/images/avatar.png'" alt="Avatar"></a>
                 <div style="margin-left: 20px; margin-top: 15px;">
                   <a href="{{ AUTHOR_WEB }}"><span id="author-name" class="w3-hover-text-dark-grey">{{ article.author }}</span></a>
-                  <p id="author-story">{% if article.author==AUTHOR %}{{ AUTHOR_DESCRIPTION }}{% endif %}</p>
+                  <p id="author-story">{% if article.author==AUTHOR %}{{ AUTHOR_DESCRIPTION }} <a style="color: #673ab7" href="http://makersinchicago.org">Chicago</a>.</span>
+                    <span id="intro-description">{{ AUTHOR_DESCRIPTION2 }}{% endif %}</p>
                 </div>
               </div>
             </div>

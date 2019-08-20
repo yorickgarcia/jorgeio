@@ -120,11 +120,9 @@ summary::-webkit-details-marker {
   margin: auto;
 }
 
-.pelican {
-  width: 100%;
+.listing-image {
   display: block;
-  max-width: 400px;
-  max-height: 400px;
+  width: 100%;
   margin: auto;
 }
 
@@ -376,6 +374,12 @@ ul.social li a:hover {
 
   .adjust-width {
     margin: 0;
+  }
+
+  .listing-image {
+    width: auto;
+    max-width: 400px;
+    max-height: 400px;
   }
 
   #header-menu ul {
