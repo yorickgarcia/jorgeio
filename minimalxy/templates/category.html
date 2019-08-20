@@ -4,7 +4,7 @@
 
     {% block content_title %}
 
-    <br><br><br>
+    <br>
 
     <div class="w3-container col-main">
       <h1>{{ category }}</h1>
@@ -14,7 +14,7 @@
 
     {% block content %}
 
-    <br><br><br>
+    <br>
 	
     <section id="listing">
       {% for article in articles_page.object_list %}
@@ -29,7 +29,7 @@
           
           <div class="headerimage-card">
           {% if article.headerimage %}
-            <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ article.headerimage }}" style="max-width: 400px; max-height: 400px; margin: auto; "></img></a>
+            <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ article.headerimage }}" class ="pelican"></img></a>
               {% endif %}
               <div class="entry-content" style="padding: 2rem;">
                 {{ article.summary|striptags }}

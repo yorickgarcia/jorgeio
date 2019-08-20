@@ -1,5 +1,5 @@
 Title: About
-____
+
 ##Contact Info 
 **e-mail and Hangouts:** [jorge@jorgegarcia.io](mailto:jorge@jorgegarcia.io)
 

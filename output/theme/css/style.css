@@ -111,11 +111,20 @@ summary::-webkit-details-marker {
 
 .headerimage-card {
   margin: 0 -16px;
+  
 }
 
-.headerimage-card > img {
+.headerimage-card-img {
   max-width: 90%;
   display: block;
+  margin: auto;
+}
+
+.pelican {
+  width: 100%;
+  display: block;
+  max-width: 400px;
+  max-height: 400px;
   margin: auto;
 }
 
@@ -238,7 +247,6 @@ ul.social li a:hover {
 }
 
 #content h2, #content h3, #content h4 {
-  margin-top: 3rem;
   margin-bottom: 1.5rem;
 }
 
@@ -381,22 +389,5 @@ ul.social li a:hover {
 
   #share a span {
     display: inline;
-  }
-  .headerimage-article {
-    margin: auto auto 2rem auto;
-    display: block;
-    max-width: 90%;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid dimgrey;
-  }
-  
-  .headerimage-card {
-    margin: 0 -16px;
-    display: flex;
-  }
-  
-  .headerimage-card > img {
-    width: 100%;
-    margin: auto;
   }
 }
