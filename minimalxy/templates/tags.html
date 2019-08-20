@@ -4,7 +4,7 @@
 
     {% block content %}
 
-    <br><br><br>
+    <br>
 
     <article>
       <header class="w3-container col-main">
@@ -17,14 +17,14 @@
         <section id="content">
           <ul>
           {%- for tag, articles in tags|sort %}
-            <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }} ({{ articles|count }})</a></li>
+            <li style="display: inline; font-size:1.{{ articles|count }}rem;"> • <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }} ({{ articles|count }})</a></li>
           {% endfor %}
           </ul>
         </section>
-
-        <br><br><br>
-        
       </div>
+
+        <br>
+        
     </article>
 
     {% endblock content %}

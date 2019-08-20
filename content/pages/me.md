@@ -1,6 +1,6 @@
 Title: About
 
-###Contact Info 
+##Contact Info 
 **e-mail and Hangouts:** [jorge@jorgegarcia.io](mailto:jorge@jorgegarcia.io)
 
 @**yorickgarcia** everywhere publicly online. See icons at footer for links from popular sites.  
@@ -34,16 +34,18 @@ Title: About
 </details>
 ____
 
-###CV
+##CV
 
-####Experience
+###Experience
 
-######**Chicago Public Library** – February 2013 to July 2019
+#####**Chicago Public Library** – February 2013 to July 2019
 **CPL Maker Lab - Maker Specialist II** – 2013-2019  
 <sub>Senior lab specialist leading special projects and new library initiatives. Facilitation of library programming, professional development for staff, outreach events, media representation, data reporting, advise on hardware and software updates. Day-to-day duties including but not limited to; maintenance of digital fabrication machines, creating documentation, assisting patrons through design and fabrication, designing and leading workshops, providing one-on-one assistance for people seeking to improve digital literacy skills.</sub> 
    
+
 **YOUmedia Chicago - Lead Mentor** – 2016-2019  
-<sub>Mentor teens particularly in the topics of computer science and maker skills. Create and facilitate certification processes for using equipment like 3D printers, plotters, and robotics kits. Develop a foundation of tools to enable teens to explore interests such as computer hardware, microprocessors, computer programming, virtual reality, and more.</sub>
+<sub>
+Mentor teens particularly in the topics of computer science and maker skills. Create and facilitate certification processes for using equipment like 3D printers, plotters, and robotics kits. Develop a foundation of tools to enable teens to explore interests such as computer hardware, microprocessors, computer programming, virtual reality, and more.</sub>
 
 **Cyber Navigator** – 2013  
 <sub>Aid patrons develop and improve digital literacy skills by helping them tackle a range of individual technological obstacles or facilitate their explorations into software applications and processes for content creation.</sub>
@@ -52,13 +54,13 @@ ____
 <sub>Help sort, retrieve, and shelve books plus clerical work on the circulation desk.</sub>
 
 
-####Projects
+###Projects
 
 [CPL’s Special Collection Harold Washington Sculpture Digitization](https://www.chipublib.org/news/diy-mayor-harold-washington-bust/)  
 [MakersinChicago.org](http://makersinchicago.org/)  and [@makersinchicago](https://twitter.com/makersinchicago)  
 [MIT Media Lab’s SPIN]() – [Tiffany Tseng's Original](http://spin.media.mit.edu/)  
 
-####Outreach Events
+###Outreach
 
 **CPL Maker Lab Ambassador**  
 <sub>CPL Foundation’s Night at the Stacks – 2016, 2017, 2018  
@@ -87,7 +89,7 @@ Gadget Guide (Chicago Tribune) – Reviewer
 </sub>
 
 ____
-###Personal Bio
-[Link](../bio)
+##Personal Bio
+[Link](/pages/bio)
 
 ___
