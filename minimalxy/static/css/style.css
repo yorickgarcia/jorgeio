@@ -376,6 +376,13 @@ ul.social li a:hover {
     margin: 0;
   }
 
+  .headerimage-article {
+    margin: auto auto 2rem auto;
+    display: block;
+    max-width: 800px;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid dimgrey;
+
   .listing-image {
     width: auto;
     max-width: 400px;
