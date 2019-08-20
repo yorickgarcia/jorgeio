@@ -63,7 +63,7 @@ abbr[title] {
 details {
   font-family: 'Open Sans', sans-serif;
   font-size: .90rem;
-  color: #81C784;
+  color: #673ab7;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -186,9 +186,11 @@ ul.social li a:hover {
 #header-menu ul li {
   text-transform: uppercase;
   list-style: none;
-  padding-left: 25px;
-  padding-right: 25px;
-  white-space:nowrap;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  white-space: nowrap;
 }
 
 #intro {
@@ -241,7 +243,7 @@ ul.social li a:hover {
 }
 
 #content a {
-  color: #4CAF50;
+  color: #673ab7;
 }
 
 #content a:hover {

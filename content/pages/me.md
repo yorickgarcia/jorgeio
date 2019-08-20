@@ -7,7 +7,7 @@ ____
 <details style="margin-top:-1rem">
     <summary>...why yorick?</summary>
     <div style="background:#f3f3f3; padding:1rem;">
-        <p>A night on <a href="https://www.behindthename.com/name/yorick">Behind the Name</a> and jorgegarcia is usually taken obviously.</p>
+        <p>A night on <a href="https://www.behindthename.com/name/yorick">Behind the Name</a> and @jorgegarcia is usually taken so I gave up on trying to get it.</p>
         <ul>
                 <li><b>JORGE</b> - Spanish and Portuguese form of GEORGE.</li>
                 <ul>
