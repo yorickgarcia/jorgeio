@@ -72,7 +72,7 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 # additional menu items
 MENUITEMS = (
     #('projects', '/pages/projects.html'),
-    ('gallery', '/pages/gallery'),
-    ('library', '/pages/library'),
-    ('about', '/pages/about'),
+    ('Gallery', '/pages/gallery'),
+    ('Projects', '/pages/projects'),
+    ('About', '/pages/about'),
  )
