@@ -1,4 +1,4 @@
-Title: 3D Models
+Title: 3D Files
 
 [Thingiverse Profile]()
 

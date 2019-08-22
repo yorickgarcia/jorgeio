@@ -7,8 +7,8 @@ SITENAME = 'jorgegarcia.io'
 SITEURL = ''
 AUTHOR_INTRO = u'Hello, I\'m Jorge.'
 AUTHOR_INTRO2 = u'That\'s Jorge like forge or gorge.'
-AUTHOR_DESCRIPTION = u'I\'m a technology advisor and educator from'
-AUTHOR_DESCRIPTION2 = u'I like to break things down and make things.'
+AUTHOR_DESCRIPTION = u'I\'m a maker culture expert from'
+AUTHOR_DESCRIPTION2 = u'I make, break, and fix things– teaching along the way.'
 AUTHOR_CONTACT = u'To best reach me, shoot me an'
 AUTHOR_CONTACT2 = u'or send me a text.'
 
@@ -48,7 +48,7 @@ DISPLAY_HEADER = True
 DISPLAY_FOOTER = False
 DISPLAY_HOME = False
 DISPLAY_MENU = True
-DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 STATIC_PATHS = ['images', 'pdfs', 'jpg']
 

@@ -1,6 +1,6 @@
 Title: Projects
 
-####Featured
+#### ⭐ ⭐ ⭐ ⭐
 [Special Collection Digitization: Harold Washingston's Bust](https://www.chipublib.org/news/diy-mayor-harold-washington-bust/)  
 [MakersinChicago.org](http://makersinchicago.org)  
 [MIT Media Lab’s SPIN]() – [Tiffany Tseng's Original](http://spin.media.mit.edu/)  
@@ -9,10 +9,10 @@ Title: Projects
 [Voight Kampft Test - Java Command Line Game](/voight-kampft-test-java)
 
 ####File Library
-[3D Models](/3d-models)  
-[Raster Art](/raster-art)  
-[Sketch Art](/sketches)  
-[Vector Art](vectors)  
+[2D Fabrication](2d-files)  
+[3D Fabrication](3d-files)  
+[Graphic Design](graphics)  
+[Sketches](sketches)  
 
 ####Personal Builds
 2011 Trek Earl - Bike  
