@@ -8,7 +8,7 @@ SITEURL = ''
 AUTHOR_INTRO = u'Hello, I\'m Jorge.'
 AUTHOR_INTRO2 = u'That\'s Jorge like forge or gorge.'
 AUTHOR_DESCRIPTION = u'I\'m a maker culture expert from'
-AUTHOR_DESCRIPTION2 = u'I make, break, and fix things– teaching along the way.'
+AUTHOR_DESCRIPTION2 = u'I make, break, and fix things– teaching and consulting on tech along the way.'
 AUTHOR_CONTACT = u'To best reach me, shoot me an'
 AUTHOR_CONTACT2 = u'or send me a text.'
 
