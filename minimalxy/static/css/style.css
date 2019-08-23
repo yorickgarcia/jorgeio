@@ -249,6 +249,11 @@ ul.social li a:hover {
   margin: auto;
 }
 
+#content h4 {
+  max-width: 750px;
+  margin: auto;
+}
+
 #content h5 {
   max-width: 700px;
   margin: auto;
