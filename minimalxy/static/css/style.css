@@ -346,6 +346,7 @@ ul.social li a:hover {
   margin: 3rem auto 3rem auto;
   border-color: #ccc;
   border-width: 1px;
+  max-width: 600px;
 }
 
 #author-block {
