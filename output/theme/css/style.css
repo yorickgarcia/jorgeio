@@ -155,7 +155,7 @@ ul.social li a:hover {
   margin-left: auto;
   margin-right: auto;
   padding: 16px;
-  max-width: 1100px;
+  max-width: 1200px;
 }
 
 #header-logo {
@@ -249,6 +249,16 @@ ul.social li a:hover {
   margin: auto;
 }
 
+#content h3 {
+  max-width: 750px;
+  margin: auto;
+}
+
+#content h4 {
+  max-width: 725px;
+  margin: auto;
+}
+
 #content h5 {
   max-width: 700px;
   margin: auto;
@@ -336,6 +346,7 @@ ul.social li a:hover {
   margin: 3rem auto 3rem auto;
   border-color: #ccc;
   border-width: 1px;
+  max-width: 600px;
 }
 
 #author-block {
