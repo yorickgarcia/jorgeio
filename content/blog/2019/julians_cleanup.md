@@ -23,7 +23,7 @@ But first…
 ![]({static}/images/julians_first_bag.jpg)
 <span class="caption">First full bag!</span>
 
-![]({static}/images/smile_android.png)
+![]({static}/images/jpgchasingleonidas.gif)
 <span class="caption">
 A time for play. Big brother has to go retrieve the more exploratory little brother.</span>
 Original Date – 8-4-2019
