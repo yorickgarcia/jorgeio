@@ -17,13 +17,13 @@ But first…
 …Coffee. A 16oz Cold Brew, two Tall iced-waters, and a warmed up scone to share.
 
 
-![]({static}/images/stroller_at_starbucks.jpg)
+![Double Stroller]({static}/images/stroller_at_starbucks.jpg)
 <span class="caption">We took the double stroller, hasn't been used since we moved to Schorsch or whatever you call this place.<span>
 
-![]({static}/images/julians_first_bag.jpg)
+![First Bag]({static}/images/julians_first_bag.jpg)
 <span class="caption">First full bag!</span>
 
-![]({static}/images/jpegchasingleonidas.gif)
+![Chase]({static}/images/jpegchasingleonidas.gif)
 <span class="caption">
 A time for play. Big brother has to go retrieve the more exploratory little brother.</span>
 Original Date – 8-4-2019
