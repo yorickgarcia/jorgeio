@@ -14,4 +14,6 @@ Where would I begin this. Do I start at -1, 0, or now at 4?
 **1** Initial Build w/ Connect Chicago, something to share  
 **2** Smart Chicago kills and restore page into stagnation and eventually transits kill the hosting  
 **3** Finding a new temporary home in Google Sites  
-**4** 2019 reboot, finding a purpose, trying to avoid -1  
+**4** 2019 reboot, finding a purpose, trying to avoid -1, the internal conflict: facing brexit
+
+Lets start at four and work our way from there.  
