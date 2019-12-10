@@ -3,7 +3,7 @@ Date: 2019-12-8
 Category: Blog
 Tags: thoughts, life and death
 Author: Jorge Garcia
-Summary: I believe there is always tomorrow. I'll run out of tomorrows someday but there will still be tomorrows to go around. Today was pretty rough but I found out a friend turned in his tomorrows today. I'll see you all tomorrow.
+Summary: I believe there is always tomorrow. I'll run out of tomorrows someday but there will still be tomorrows to go around. Today was pretty rough but I found out a friend turned in his tomorrows this past Friday. I'll see you all tomorrow.
 HeaderImage: /images/vengevine.jpg
 HeaderImageCaption: Matt's spirit-animal, Vengevine
 
