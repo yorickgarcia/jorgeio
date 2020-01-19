@@ -64,6 +64,7 @@ p > img {
 	margin: 0 auto;
 	border-radius: 10%;
 	margin: .42rem auto .42rem auto;
+	mix-blend-mode: multiply;
   }
 li.current{
 	font-weight: 700;
@@ -77,7 +78,6 @@ li.current{
 	padding: 24px 24px;
 }
 .content {
-	background-color: #dddddd;
 	color: #4D4D4D;
 	padding: 3em;
 	border-radius: 2rem;
