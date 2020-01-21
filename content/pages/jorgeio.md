@@ -13,7 +13,7 @@ To best reach me, shoot me an [email](mailto:jorge@jorgegarcia.io) or send me a 
 
 ---
 
-[![Makers in Chicago]({static}/images/makersinchicago.jpg)](https://makersinchicago.org)
+[![Makers in Chicago]({static}/images/makersinchicago.png)](https://makersinchicago.org)
 [![Finch Robots]({static}/images/finch.png)](/finch)
 ![CPL Maker Lab]({static}/images/cplmakerlab.jpg)
 ![Raspberry Pi Mix Materials Case]({static}/images/.jpg)
