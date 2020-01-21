@@ -11,7 +11,8 @@ body {
 	margin:  0 auto;
 	display: table;
 	text-align: center;
-	margin-bottom: 2rem;
+	padding-bottom: 1rem;
+	border-bottom: 4px solid #9771B0;
 }
 
 p {
@@ -62,10 +63,18 @@ p > img {
 	width: 100%;
 	display: block;
 	margin: 0 auto;
-	border-radius: 10%;
+	border-radius: 2rem;
 	margin: .42rem auto .42rem auto;
-	mix-blend-mode: multiply;
   }
+
+p > a > img {
+	max-width: 200px;
+	width: 100%;
+	display: inline-flex;
+	margin: 0 auto;
+	border-radius: 1rem;
+	margin: .42rem auto .42rem auto;
+}
 li.current{
 	font-weight: 700;
 	text-decoration: underline;
@@ -79,11 +88,11 @@ li.current{
 }
 .content {
 	color: #4D4D4D;
-	padding: 3em;
+	padding: 1em 3em;
 	border-radius: 2rem;
 	border-width: .3rem;
 	border-style: solid;
-	border-color: #ffffff66  ;
+	border-color: #ffffff66;
 }
 
 .info {
