@@ -20,8 +20,11 @@ TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = 'en'
 
 THEME = "pelican/delphic"
+
+
 PLUGIN_PATHS = "pelican/"
-PLUGINs = [gallery]
+PLUGINS = "gallery"
+GALLERY_PATH ="./content/images/gallery/"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
