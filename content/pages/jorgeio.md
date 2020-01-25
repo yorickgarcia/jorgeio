@@ -1,5 +1,4 @@
-title:
-save_as: index.html
+title: frontpage
 
 ![Jorge]({static}/images/selfie.jpg)
 
