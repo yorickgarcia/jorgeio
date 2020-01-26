@@ -1,6 +1,7 @@
 body {
 	font-family: 'Roboto';
 	font-size: 62.5%;
+	color: #7D7D7D;
 }
 
 .logo {
@@ -87,10 +88,9 @@ li.current{
 .main {
 	max-width: 900px;
 	margin: 0px auto;
-	padding: 1rem 1rem;
+	padding: 3rem 1rem;
 }
 .content {
-	color: #4D4D4D;
 	padding: .42em .42em;
 	border-radius: 2rem;
 	border-width: .3rem;
