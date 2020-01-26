@@ -16,7 +16,7 @@ body {
 }
 
 p {
-	font-size: 1.4em;
+	font-size: 1.2rem;
 	max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
@@ -87,11 +87,11 @@ li.current{
 .main {
 	max-width: 900px;
 	margin: 0px auto;
-	padding: 24px 24px;
+	padding: 1rem 1rem;
 }
 .content {
 	color: #4D4D4D;
-	padding: 1em 3em;
+	padding: .42em .42em;
 	border-radius: 2rem;
 	border-width: .3rem;
 	border-style: solid;
