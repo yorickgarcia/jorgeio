@@ -5,6 +5,7 @@ body {
 
 .logo {
 	max-width: 96px;
+	margin-top: 3rem;
 }
 
 .banner {
@@ -23,7 +24,7 @@ p {
 }
 
 h1, h2 {
-	font-family: 'Courier';
+	font-family: Courier;
 }
 
 h1 {
@@ -195,7 +196,7 @@ ul.nav li {
 	padding-left:8px;
 	padding-right:8px;
 	text-align:center;
-	font-family: 'courier';
+	font-family: Courier;
 	font-weight: 400;
 	font-size: 1.3em;
 	text-transform: lowercase;
