@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from datetime import date
 
 AUTHOR = 'Jorge Garcia'
 SITENAME = 'jorgegarcia.io'
 SITEURL = ''
 AUTHOR_INTRO = 'I make, break, and fix things to learn– teaching and consulting on technology along the way.'
+CURRENTYEAR = date.today().year
 
 PATH = 'content'
 
@@ -68,7 +70,7 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 #)
 # additional menu items
 LINKS = (
-    ('projects', '/pages/projects.html'),
+    ('Makers', 'https://makersinchicago.org/'),
     ('Gallery', '/pages/gallery'),
     ('Projects', '/pages/projects'),
     ('About', '/pages/about'),
