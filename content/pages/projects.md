@@ -1,8 +1,8 @@
 Title: Projects
 
 #### ⭐ ⭐ ⭐ ⭐
-[Special Collection Digitization: Harold Washingston's Bust](https://www.chipublib.org/news/diy-mayor-harold-washington-bust/)  
 [MakersinChicago.org](http://makersinchicago.org)  
+[Special Collection Digitization: Harold Washingston's Bust](https://www.chipublib.org/news/diy-mayor-harold-washington-bust/)  
 [MIT Media Lab’s SPIN]() – [Tiffany Tseng's Original](http://spin.media.mit.edu/)  
 [Scratch & Finch](https://drive.google.com/drive/folders/0B8QHDZo-SrgETkpTMXdfX1E4Yjg)  
 [The Game of Life - Java](/game-of-life-java)

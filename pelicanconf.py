@@ -71,7 +71,8 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 # additional menu items
 LINKS = (
     ('Makers', 'https://makersinchicago.org/'),
-    ('Gallery', '/pages/gallery'),
+    ('navigator', '/pages/cybernav'),
     ('Projects', '/pages/projects'),
+    ('Gallery', '/pages/gallery'),
     ('About', '/pages/about'),
 )

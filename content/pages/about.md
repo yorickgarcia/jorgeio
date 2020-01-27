@@ -1,9 +1,9 @@
 Title: About
 
 ##Contact Info 
-**e-mail and Hangouts:** [jorge@jorgegarcia.io](mailto:jorge@jorgegarcia.io)
-
-@**yorickgarcia** everywhere publicly online. See icons at footer for links from popular sites.  
+**e-mail and Hangouts:** [jorge@jorgegarcia.io](mailto:jorge@jorgegarcia.io)  
+**Social:**
+@**yorickgarcia** everywhere publicly online.  
 <details style="margin-top:-1rem">
     <summary>...why yorick?</summary>
     <div style="background:#f3f3f3; padding:1rem;">
@@ -32,9 +32,10 @@ Title: About
             </ul>
     </div>
 </details>
-____
 
-##CV
+---
+
+#CV
 
 ###Experience
 
@@ -88,8 +89,9 @@ Pop Up Youth Radio (Podcast) – Maker Lab/Finch
 Gadget Guide (Chicago Tribune) – Reviewer  
 </sub>
 
-____
-##Personal Bio
-[Link](/pages/bio)
-
 ___
+
+---
+
+##Personal Bio
+[Link]()- In Progress

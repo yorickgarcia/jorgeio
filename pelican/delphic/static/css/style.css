@@ -52,9 +52,9 @@ a:hover {
 }
 
 p > img {
-	max-width: 400px;
+	max-width: 350px;
 	width: 100%;
-	display: block;
+	display: inline-block;
 	margin: 0 auto;
 	border-radius: 2rem;
 	margin: .42rem auto .42rem auto;
@@ -183,13 +183,15 @@ ul.nav li {
 	text-align:center;
 	font-family: 'Courier New';
 	font-weight: 400;
-	font-size: 1.3em;
+	font-size: 1.4em;
 	text-transform: lowercase;
+	list-style: none;
 }
 
 
 ul.social li {
 	display:inline-block;
+	list-style: none;
 	padding-left:8px;
 	padding-right:8px;
 	text-align:center;
