@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+
+{% block title %}{{ category }} &ndash; {{ SITENAME }}{% endblock %}
+
+{% block content_title %}
+
+<br>
+
+<div class="w3-container col-main">
+  <h1>{{ category }}</h1>
+</div>
+
+{% endblock content_title %}
+
+{% block content %}
+
+<br>
+
+<div class="w3-center w3-container col-main">
+    <section id="content">
+        <details>
+            <summary><h5>View Tags</h5></summary>
+            <div style="background:#f3f3f3; padding:1rem; margin-top: 1rem">
+              <ul>
+              {%- for tag, articles in tags|sort %}
+                <li style="display: inline; font-size:1.{{ articles|count }}rem;"> • <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }} ({{ articles|count }})</a></li>
+              {% endfor %}
+              </ul>
+            </div>
+          </details>
+    </section>
+  </div>
+
+    <br>
+
+<section id="listing">
+  {% for article in articles_page.object_list %}
+  <hr>
+
+  <article class="w3-container w3-card-2 w3-white col-main">
+    <header>
+        <h3><a class="w3-hover-text-deep-purple" href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+      {% if article.tags %}
+          {% endif %}
+      <div class="headerimage-card">
+          <div class="entry-content" style="padding: 1rem;">
+            {{ article.summary|striptags }}
+          </div>
+      </div>
+      <div class="tags">
+        {% for tag in article.tags %}
+        <span class="w3-tag w3-light-grey w3-text-deep-purple w3-hover-deep-purple">
+          <a href="{{ SITEURL }}/{{ tag.url }}" title="All articles with {{ tag.name.title() }} tag">#{{ tag }}</a>
+        </span>
+        {% endfor %}
+      </div>
+      
+      
+    </header>
+
+  </article>
+
+  {% endfor %}
+
+  {% if articles_page.has_other_pages() %}
+  {% include 'pagination.html' %}
+  <br><br><br>
+  {% endif %}
+
+</section>
+
+{% endblock content %} 
