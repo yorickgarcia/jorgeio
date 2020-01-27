@@ -1,6 +1,5 @@
 body {
-	font-family: 'Roboto';
-	font-size: 62.5%;
+	font-family: 'Roboto', sans-serif;
 	color: #7D7D7D;
 }
 
@@ -12,19 +11,19 @@ body {
 	margin:  0 auto;
 	display: table;
 	text-align: center;
-	padding-bottom: 1rem;
-	border-bottom: 4px solid #9771B0;
+	padding-bottom: .5rem;
+	border-bottom: 4px solid #000;
 }
 
+.bannerpurp {
+	border-top: 4px solid #9771B0;
+	margin-top: 1rem;
+}
 p {
-	font-size: 1rem;
-	max-width: 600px;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 h1, h2 {
-	font-family: 'Big Shoulders Text';
+	font-family: 'Courier';
 }
 
 h1 {
@@ -41,6 +40,10 @@ h6 {
 	font-size: 1.3rem;
 	line-height: 1.7rem;
 	text-transform: uppercase;
+}
+
+sub {
+	line-height: normal;
 }
 
 a {
@@ -104,7 +107,7 @@ li.current{
 
 #cats {
 	font-weight: 700;
-	color: #2f6184;
+	color: #8d6fa0;
 }
 
 .category {
@@ -183,14 +186,40 @@ ul.nav {
 	text-align: center;
 	padding-inline-start: 0px;
 }
+.social {
+	text-align: center;
+	margin-top: 0px;;
+}
 ul.nav li {
 	display:inline-block;
 	padding-left:8px;
 	padding-right:8px;
 	text-align:center;
-	font-family: 'Roboto';
+	font-family: 'courier';
 	font-weight: 400;
 	font-size: 1.3em;
-	line-height: 1.5rem;
-	text-transform: uppercase;
+	text-transform: lowercase;
+}
+
+
+ul.social li {
+	display:inline-block;
+	padding-left:8px;
+	padding-right:8px;
+	text-align:center;
+	font-family: 'courier';
+	font-weight: 400;
+	font-size: .9em;
+	text-transform: lowercase;
+}
+
+.intro-description {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-style: italic;
+	font-size: .9em;
+}
+.row {
+	max-width: 900px;
+	margin: auto;
 }

@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Jorge Garcia'
 SITENAME = 'jorgegarcia.io'
 SITEURL = ''
+AUTHOR_INTRO = 'I make, break, and fix things to learn– teaching and consulting on technology along the way.'
 
 PATH = 'content'
 
@@ -28,9 +29,7 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/yorickgarcia'),
-          ('linkedin', 'http://linkedin.com/yorickgarcia'),
           ('github', 'http://github.com/yorickgarcia'),
-          ('reddit', 'http://reddit.com/u/yorickgarcia'),
           ('instagram', 'http://instagram.com/yorickgarcia'),)
 
 DEFAULT_PAGINATION = 42
@@ -68,9 +67,9 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 #     ('Archives', ARCHIVES_URL, ARCHIVES_SAVE_AS),
 #)
 # additional menu items
-# MENUITEMS = (
-#     ('projects', '/pages/projects.html'),
-#     ('Gallery', '/pages/gallery'),
-#     ('Projects', '/pages/projects'),
-#     ('About', '/pages/about'),
-# )
+LINKS = (
+    ('projects', '/pages/projects.html'),
+    ('Gallery', '/pages/gallery'),
+    ('Projects', '/pages/projects'),
+    ('About', '/pages/about'),
+)
