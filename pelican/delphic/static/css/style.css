@@ -52,12 +52,10 @@ a:hover {
 }
 
 p > img {
-	max-width: 350px;
 	width: 100%;
 	display: inline-block;
-	margin: 0 auto;
 	border-radius: 2rem;
-	margin: .42rem auto .42rem auto;
+	margin-bottom: .42rem;
   }
 
 p > a > img {
@@ -198,6 +196,7 @@ ul.social li {
 	font-family: 'Courier New';
 	font-weight: 400;
 	text-transform: lowercase;
+	font-size: 1em;
 }
 
 .intro-description {
@@ -209,3 +208,10 @@ ul.social li {
 	max-width: 900px;
 	margin: auto;
 }
+
+@media (min-width: 992px) {
+p > img {
+	max-width: 350px;
+  }
+}
+	

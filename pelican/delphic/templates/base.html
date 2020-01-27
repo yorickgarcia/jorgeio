@@ -53,13 +53,17 @@
 <div class="row">
   <div class="col-sm-12">
     <hr>
+    <ul class="social">
+      {% for name, link in SITES %}
+      <li><a class="sc-{{ name }}" href="{{ link }}" target="_blank"><i class="fa fa-{{ name }}"> {{ name}}</i></a></li>
+      {% endfor %}
+    </ul>
+        <div class="intro-description">{{ AUTHOR_INTRO }}</div>
         <ul class="social">
           {% for name, link in SOCIAL %}
           <li><a class="sc-{{ name }}" href="{{ link }}" target="_blank"><i class="fa fa-{{ name }}"> {{ name}}</i></a></li>
           {% endfor %}
         </ul>
-        <div class="intro-description">{{ AUTHOR_INTRO }}
-        </div>
         <hr>
   </div>
 </div>

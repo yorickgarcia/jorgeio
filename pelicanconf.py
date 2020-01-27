@@ -70,9 +70,14 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 #)
 # additional menu items
 LINKS = (
-    ('Makers', 'https://makersinchicago.org/'),
-    ('navigator', '/pages/cybernav'),
+    ('home', '/'),
     ('Projects', '/pages/projects'),
     ('Gallery', '/pages/gallery'),
     ('About', '/pages/about'),
+)
+
+SITES = (
+    ('Makers in Chicago','https://makersinchicago.org'),
+    ('+--[O.o]-+','https://www.instagram.com/theeveninggrosbeak/'),
+    ('The CyberNavigator','https://thecybernavigator.com'),
 )
