@@ -72,6 +72,7 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 LINKS = (
     ('Home', '/'),
     ('Writing','/category/blog/'),
+    ('Grosbeak','/category/grosbeak'),
     ('Projects', '/pages/projects'),
     ('Gallery', '/pages/gallery'),
     ('About', '/pages/about'),
@@ -79,6 +80,6 @@ LINKS = (
 
 SITES = (
     ('Makers in Chicago','https://makersinchicago.org'),
-    ('+--[O.o]-+','https://www.instagram.com/theeveninggrosbeak/'),
+    ('⋛⋋[±0dB]⋌⋚','https://www.instagram.com/theeveninggrosbeak/'),
     ('The CyberNavigator','https://thecybernavigator.com'),
 )

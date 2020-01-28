@@ -12,9 +12,8 @@
 <meta name="theme-color" content="#9771B0" />
 
 <!-- CSS --> 
-
-<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/bootstrap.css" />
 <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/normalize.css" />
+<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/bootstrap.css" />
 <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
 <link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Lora|Roboto:400,700&display=swap" rel="stylesheet">
 
@@ -55,15 +54,16 @@
     <hr>
     <ul class="social">
       {% for name, link in SITES %}
-      <li><a class="sc-{{ name }}" href="{{ link }}" target="_blank"><i class="fa fa-{{ name }}"> {{ name}}</i></a></li>
+      <li><a class="sc-{{ name }}" href="{{ link }}" target="_blank">{{ name}}</a></li>
       {% endfor %}
     </ul>
-        <div class="intro-description">{{ AUTHOR_INTRO }}</div>
         <ul class="social">
           {% for name, link in SOCIAL %}
-          <li><a class="sc-{{ name }}" href="{{ link }}" target="_blank"><i class="fa fa-{{ name }}"> {{ name}}</i></a></li>
+          <li><a class="sc-{{ name }}" href="{{ link }}" target="_blank">{{ name}}</a></li>
           {% endfor %}
         </ul>
+        <p class="intro-description">{{ AUTHOR_INTRO }}</p><p class="sig">CC BY 2018-{{CURRENTYEAR}} {{ SITENAME }}</p>
+        
         <hr>
   </div>
 </div>
