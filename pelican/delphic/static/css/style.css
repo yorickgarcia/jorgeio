@@ -230,6 +230,18 @@ img.avatar {
     border-radius: 50%;
 }
 
+details {
+
+}
+
+summary {
+
+}
+
+blockquote > p {
+	margin-top: -1em;
+}
+
 @media (min-width: 992px) {
 p > img {
 	max-width: 350px;
