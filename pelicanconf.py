@@ -79,7 +79,7 @@ LINKS = (
 )
 
 SITES = (
-    ('Makers in Chicago','https://makersinchicago.org'),
-    ('⋛⋋[±0dB]⋌⋚','https://www.instagram.com/theeveninggrosbeak/'),
-    ('The CyberNavigator','https://thecybernavigator.com'),
+    ('MakersinChicago.org','https://makersinchicago.org'),
+    ('⋛⋋[±0dB]⋌⋚','https://thegrosbeak.com'),
+    ('CyberNavigator.info','https://cybernavigator.info'),
 )
