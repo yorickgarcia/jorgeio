@@ -81,9 +81,10 @@ Tomorrow’s Technology Today – 2017, 2018  </sub>
 
 **Media Appearances**  
 <sub>
+[Around Town (WGN) - West Loop YOUmedia/STEM Resources](https://wgntv.com/2019/02/05/around-town-checks-out-the-new-west-loop-branch-chicago-public-library/)  
 Chicago Tonight (WTTW) – CPL  
-You & Me (WCUI) – Geek Street/Finch  
-Around Town (WGN) – Circulating Tech/Finch  
+[You & Me (WCUI) – Geek Street/Finch](https://www.chipublib.org/news/join-cpl-at-geek-street-powered-by-google/)  
+Around Town (WGN) – Chinatown Branch Circulating Tech/Finch  
 Nerdologues (Podcast) – Maker Lab  
 Pop Up Youth Radio (Podcast) – Maker Lab/Finch  
 Gadget Guide (Chicago Tribune) – Reviewer  
