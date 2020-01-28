@@ -1,8 +1,5 @@
 title: File Library
 slug: library
 
-## SVG Files
-![finch](/images/gallery/svg/finch.svg)
-![finch](/images/gallery/svg/chromebook.svg)
-![finch](/images/gallery/svg/goat.svg)
-![finch](/images/gallery/svg/electrobird.svg)
+- [SVG Files](/pages/2d-files)
+- [3D Files](/pages/3d-files)
