@@ -25,8 +25,8 @@ Title: Projects
 [Raspberry Pi Zero Mixed Materials Enclosure](/raspi-case)
 : Creating a custom enclosure with a variety of digital fabrication tools including a water jet cutter.
 
-###**Personal Builds**  
-Some things I built for myself to enjoy and their specs.
+###**Personal Gadgets**  
+Current toolset of things I use, some things I built for myself to enjoy, and their specs.
 
 The Bike
 : 2011 Trek Earl Blue Frame
@@ -53,3 +53,26 @@ Viewing Area
 : TCL 55S517
 : Denon AVR-1909
 : 2x Klipsch R-15M 
+
+3D Printing Station
+: Cetus3D
+: Rebuilt Makerbot Replicator 2
+: Rebuilt Makerbot Replicator 2X with E3D Bowden Extruder
+
+Home Gaming
+: The Dekstop
+: Nintendo Switch
+
+The Camera
+: Sony NEX-5R/B
+: Sony SEL35F18
+
+Mobile Devices
+: Samsung Galaxy S10e
+: Samsung Galaxy Watch 46mm
+: Sony MDR-EX110
+: New Nintendo 3DS XL
+
+Laptops
+: XPS 15 9550: i5-6300HQ, 32GB DDR4, 512 SSD
+: Macbook Pro 13in (Mid-2012): i5-3210M, 16GB DDR3, 1TB SSD
