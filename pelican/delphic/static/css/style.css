@@ -221,6 +221,13 @@ ul.nav li {
 	font-size: .75em;
 }
 
+img.avatar {
+	width: 100px;
+	float: left;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
 @media (min-width: 992px) {
 p > img {
 	max-width: 350px;
