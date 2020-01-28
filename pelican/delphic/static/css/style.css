@@ -167,7 +167,8 @@ ul.nav {
 	padding-inline-start: 0px;
 }
 .social {
-	text-align: center;
+	margin: auto 0;
+	padding: inherit;
 }
 ul.nav li {
 	display:inline-block;
@@ -187,8 +188,8 @@ ul.nav li {
 	list-style: none;
 	padding-left:1em;
 	padding-right:1em;
-	text-align:center;
-	font-family: 'Roboto';
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	text-transform: lowercase;
 	font-size: 1.1em;

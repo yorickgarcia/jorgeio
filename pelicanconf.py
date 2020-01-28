@@ -72,7 +72,7 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 LINKS = (
     ('Home', '/'),
     ('Writing','/category/blog/'),
-    ('Grosbeak','/category/grosbeak'),
+    ('Library','/category/library'),
     ('Projects', '/pages/projects'),
     ('Gallery', '/pages/gallery'),
     ('About', '/pages/about'),
