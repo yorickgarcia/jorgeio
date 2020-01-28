@@ -74,12 +74,13 @@ li.current{
 	
 }
 
-.content {
-	padding: .42em .42em;
+#content {
+	padding-top: 1em;
 	border-radius: 2rem;
 	border-width: .3rem;
-	border-style: solid;
-	border-color: #ffffff66;
+	border-width: 5px;
+	border-style: none;
+	border-color: red;
 }
 
 .info {
