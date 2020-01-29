@@ -90,8 +90,15 @@ Pop Up Youth Radio (Podcast) – Maker Lab/Finch
 Gadget Guide (Chicago Tribune) – Reviewer  
 </sub>
 
-___
+---
 
+## Blog Roll
+[Hackaday](https://hackaday.com/)
+[Flickerings — In the Gloam](https://www.inthegloam.com/wrdz)  
+[Spudart](https://www.spudart.org/)  
+[The Over Examined Life](https://overexamined.life/)
+[Alexandra Franzen](http://www.alexandrafranzen.com/new/)  
+...going through my bookmarks in Feb 2020
 ---
 
 ##Personal Bio
