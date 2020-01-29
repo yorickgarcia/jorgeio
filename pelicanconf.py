@@ -71,7 +71,7 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 # additional menu items
 LINKS = (
     ('Home', '/'),
-    ('Writing','/category/blog/'),
+    ('Blog','/category/blog/'),
     ('Library','/pages/library'),
     ('Projects', '/pages/projects'),
     ('Gallery', '/pages/gallery'),
