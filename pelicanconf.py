@@ -69,10 +69,12 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 #     ('Archives', ARCHIVES_URL, ARCHIVES_SAVE_AS),
 #)
 # additional menu items
+
+# ('Blog','/category/blog/'),
+#     ('Library','/pages/library'),
+    
 LINKS = (
     ('Home', '/'),
-    ('Blog','/category/blog/'),
-    ('Library','/pages/library'),
     ('Projects', '/pages/projects'),
     ('Gallery', '/pages/gallery'),
     ('About', '/pages/about'),
