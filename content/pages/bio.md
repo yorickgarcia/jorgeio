@@ -1,6 +1,5 @@
 Title: Bio
 
-This will be in the first person, as I am the one writing it.
 I was born in Cook County Hospital in Illinois as a second child to two immigrant farm folks who made their best attempts at escaping their situation and left it all behind them. As I understand it, we moved back to Mexico after my birth for two years before returning to Chicago for good.
 
 As I can remember, we lived doors down from the Logan Square McDonalds. In 93 we moved to our new house in the Belmont-Craigin neighborhood and grew up with three other guys who have made up what I call my family. They are/were Joseph Andrew Chesser, Lemar Woods, and Alexsy Martinez. I liken them to brothers so much that I cannot get away from them even if I tried and will never introduce them as my friend in real life.
