@@ -39,11 +39,9 @@ h1 {
 	color: #4D4D4D;
 	width: auto;
 	font-family: 'Courier New', sans-serif;
-	border-top: 4px solid;
 	border-bottom: 4px solid;
 	border-image-source: linear-gradient(90deg, #9771B0, #fff, #fff);
 	border-image-slice: 1;
-	vertical-align: middle;
 }
 
 .col-md-10 > hr,
