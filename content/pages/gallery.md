@@ -3,6 +3,11 @@ Title: Gallery
 Where the 'grams go to live a happy Facebook-less life.  
 Check back later for a new featured collection. Right click to view full size.
 
+
+### The Masked Musician
+
+![The Masked Musician](/images/musician.jpg)
+
 ### Le Petite Retirement
 
 ![A Sunset](/images/gallery/ilwx/ilwx-1.jpg)

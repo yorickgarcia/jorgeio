@@ -13,7 +13,7 @@ Twitter account promoting Chicago maker events and members
 
 # Learning Experiences
 
-
+## Learning Circles in the Maker Lab
 
 ## [Scratch & Finch](https://drive.google.com/drive/folders/0B8QHDZo-SrgETkpTMXdfX1E4Yjg)  
 : Learning Materials for Finch Robots  
