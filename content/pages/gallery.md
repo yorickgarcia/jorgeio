@@ -6,7 +6,7 @@ Check back later for a new featured collection. Right click to view full size.
 
 ### The Masked Musician
 
-![The Masked Musician](/images/musician.jpg)
+![The Masked Music-Man](/images/musicman.jpg)
 
 ### Le Petite Retirement
 
