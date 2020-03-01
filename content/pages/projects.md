@@ -34,10 +34,14 @@ Twitter account promoting Chicago maker events and members
 
 # Research Work
 
+## In-house 3D Printing for Facial Reconstructive Surgery
+
 ## [Digitizating Harold Washingston's Bust](https://www.chipublib.org/news/diy-mayor-harold-washington-bust/)  
 : Photogrammetry of Abelardo Ghoulam's Harold Washington portrait bust.  
 
 ![HW Bust](/images/hwb.jpg)
+
+## What's in your Water?
 
 # Makes
 
@@ -58,6 +62,9 @@ My modification to be able to use it without the app.
 : Creating the Game of Life within Java  
 
 ## [Raspberry Pi Zero Mixed Materials Enclosure](/raspi-case)
-: Creating a custom enclosure with a variety of digital fabrication tools including a water jet cutter.
+: Creating a custom enclosure with a variety of digital fabrication tools including a water jet cutter. e-mail if you would like 
 
 ![Mixed-Berry Pi](/images/raspberrypizerocam.png)
+
+## micro:bit Mixed Materials Name Badge
+
