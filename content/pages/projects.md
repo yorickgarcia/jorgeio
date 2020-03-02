@@ -16,55 +16,82 @@ Twitter account promoting Chicago maker events and members
 ## Learning Circles in the Maker Lab
 
 ## [Scratch & Finch](https://drive.google.com/drive/folders/0B8QHDZo-SrgETkpTMXdfX1E4Yjg)  
-: Learning Materials for Finch Robots  
+: Learning Materials for Finch Robots workshops held regularly at CPL's Maker Lab 
 
-![Scratch and Finch](/images/sf1.png)
-![Scratch and Finch](/images/sf2.jpg)
-![Scratch and Finch](/images/sf3.jpg)
-![Scratch and Finch](/images/sf4.jpg)
+![Scratch and Finch](/images/finch/sf1.png)
+![Scratch and Finch](/images/finch/sf2.jpg)
 
 # Activations
 
-## [The Voight Kampft Test and Apparatus](/voight-kampft-test-java)
+## The Voight Kampft Test and Apparatus
 : Designed a terminal based game and hardware controller for Night at the Stack 2019
 
-![Voight Kampff Test](/images/vkt1.jpg)
-![Voight Kampff Test](/images/vkt2.jpg)
-![Voight Kampff Test](/images/vkt3.jpg)
+![Voight Kampff Test](/images/nats/vkt1.jpg)
+![Voight Kampff Test](/images/nats/vkt2.jpg)
+![Voight Kampff Test](/images/nats/vkt3.jpg)
+
+## Scratch at CPL Outreach
+: Maker Faires, TV, and more!
+
+![Scratch and Finch](/images/finch/sf3.jpg)
 
 # Research Work
 
-## In-house 3D Printing for Facial Reconstructive Surgery
+## DICOM to 3D Print via for Clinical Study
 
-## [Digitizating Harold Washingston's Bust](https://www.chipublib.org/news/diy-mayor-harold-washington-bust/)  
+### Link to: [PDF](/images/files/Craniofacial-Surgery.pdf)
+
+![Skull](/images/skull/skull1.jpg)
+![Skull](/images/skull/skull2.jpg)
+![Skull](/images/skull/skull3.jpg)
+![Skull](/images/skull/skull4.jpg)
+
+## What's In Your Water?
+
+
+
+## Digitizating Harold Washingston's Bust
+
+### Link to: [Post](https://www.chipublib.org/news/diy-mayor-harold-washington-bust/)
+
 : Photogrammetry of Abelardo Ghoulam's Harold Washington portrait bust.  
 
-![HW Bust](/images/hwb.jpg)
+![HW Bust](/images/projects/hwb.jpg)
 
 ## What's in your Water?
 
 # Makes
 
-## [SPIN](https://www.youtube.com/watch?v=LSsDg8IHOO4)
+## SPIN
+### Link to: [Original](http://spin.media.mit.edu/)
+### Link to: [Demo video](https://www.youtube.com/watch?v=LSsDg8IHOO4)
+
 : Modified replication of Tiffany Tseng's MIT Media Lab project, SPIN. An automated lazy susan with app integration for creating product GIFs.  
 
-![Spin](/images/spin1.jpg)
-![Spin](/images/spin2.jpg)
-![Spin](/images/spin3.jpg)
-![Spin](/images/spin4.jpg)
+![Spin](/images/spin/spin1.jpg)
+![Spin](/images/spin/spin2.jpg)
+![Spin](/images/spin/spin3.jpg)
+![Spin](/images/spin/spin4.jpg)
 
 My modification to be able to use it without the app.
 
-![Spin](/images/spin5.jpg)
-![Spin](/images/spin6.jpg)
+![Spin](/images/spin/spin5.jpg)
+![Spin](/images/spin/spin6.jpg)
 
-[The Game of Life - Java](/game-of-life-java)  
+## The Game of Life - Java  
 : Creating the Game of Life within Java  
 
-## [Raspberry Pi Zero Mixed Materials Enclosure](/raspi-case)
-: Creating a custom enclosure with a variety of digital fabrication tools including a water jet cutter. e-mail if you would like 
+## Raspberry Pi Zero Mixed Materials Enclosure
+: Creating a custom enclosure with a variety of digital fabrication tools including a water jet cutter.
 
-![Mixed-Berry Pi](/images/raspberrypizerocam.png)
+![Mixed-Berry Pi](/images/picam/raspberrypizerocam.png)
+![Mixed-Berry Pi](/images/picam/plasticcam.jpg)
+![Mixed-Berry Pi](/images/picam/picam3.jpg)
+![Mixed-Berry Pi](/images/picam/waterjet.jpg)
+
+
+
 
 ## micro:bit Mixed Materials Name Badge
 
+![Mixed-Berry Pi](/images/microbit/microbitjorge.jpg)
