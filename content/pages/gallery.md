@@ -1,4 +1,4 @@
-Title:
+Title: Gallery
 
 Where the 'grams go to live a happy Facebook-less life.  
 Check back later for a new featured collection. Right click to view full size.
@@ -13,20 +13,18 @@ Check back later for a new featured collection. Right click to view full size.
 ![xFinch](/images/birds/avondale.jpg)
 ![xFinch](/images/birds/maine.jpg)
 
-
-
 ## Le Petite Retirement
 
-![A Sunset](/images/ilwx/ilwx-1.jpg)
-![A Sunset](/images/ilwx/ilwx-6.jpg)
-![A Sunset](/images/ilwx/ilwx-4.jpg)
-![A Sunset](/images/ilwx/ilwx-2.jpg)
-![A Sunset](/images/ilwx/ilwx-3.jpg)
-![A Sunset](/images/ilwx/ilwx-5.jpg)
-![A Sunset](/images/ilwx/ilwx-7.jpg)
-![A Sunset](/images/ilwx/ilwx-8.jpg)
-![A Sunset](/images/ilwx/ilwx-9.jpg)
-![A Sunset](/images/ilwx/ilwx-10.jpg)
+![A Sunset](/images/ILWX/ilwx-1.jpg)
+![A Sunset](/images/ILWX/ilwx-6.jpg)
+![A Sunset](/images/ILWX/ilwx-4.jpg)
+![A Sunset](/images/ILWX/ilwx-2.jpg)
+![A Sunset](/images/ILWX/ilwx-3.jpg)
+![A Sunset](/images/ILWX/ilwx-5.jpg)
+![A Sunset](/images/ILWX/ilwx-7.jpg)
+![A Sunset](/images/ILWX/ilwx-8.jpg)
+![A Sunset](/images/ILWX/ilwx-9.jpg)
+![A Sunset](/images/ILWX/ilwx-10.jpg)
 
 ## The Masked Musician
 
