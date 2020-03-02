@@ -7,11 +7,11 @@ Check back later for a new featured collection. Right click to view full size.
 ## Birds
 
 ![xFinch](/images/birds/xfinch.png)
-![xFinch](/images/birds/finch.png)
+![xFinch](/images/birds/daemon.jpg)
 ![xFinch](/images/birds/polygon.jpg)
 ![xFinch](/images/birds/lasergrosbeak.jpg)
-![xFinch](/images/birds/maine.jpg)
 ![xFinch](/images/birds/avondale.jpg)
+![xFinch](/images/birds/maine.jpg)
 
 
 
