@@ -21,7 +21,17 @@ Twitter account promoting Chicago maker events and members
 ![Scratch and Finch](/images/finch/sf1.png)
 ![Scratch and Finch](/images/finch/sf2.jpg)
 
+## Assesing Computational Thinking in Maker Activities 2017
+
+Link to: [Youtube Video](https://www.youtube.com/watch?v=iIeEhS35W_0)
+
+![actma](/images/actma/jorge-actma-training.jpg)
+![actma](/images/actma/jorge-actma.jpg)
 # Activations
+
+## VR for Library Programming
+
+## High-End Computers at the Library
 
 ## The Voight Kampft Test and Apparatus
 : Designed a terminal based game and hardware controller for Night at the Stack 2019
