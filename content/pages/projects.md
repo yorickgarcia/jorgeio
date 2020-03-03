@@ -111,3 +111,4 @@ My modification to be able to use it without the app.
 ## ✶ micro:bit Mixed Materials Name Badge
 
 ![Mixed-Berry Pi](/images/microbit/microbitjorge.jpg)
+![Mixed-Berry Pi](/images/microbit/iterations.jpg)
