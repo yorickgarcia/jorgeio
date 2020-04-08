@@ -33,66 +33,68 @@ Title: About
     </div>
 </details>
 
----
 
-#CV
+# CV
 
-###Experience
+## Experience
 
-#####**Chicago Public Library** – February 2013 to July 2019
-**CPL Maker Lab - Maker Specialist II** – 2013-2019  
-<sub>Senior lab specialist leading special projects and new library initiatives. Facilitation of library programming, professional development for staff, outreach events, media representation, data reporting, advise on hardware and software updates. Day-to-day duties including but not limited to; maintenance of digital fabrication machines, creating documentation, assisting patrons through design and fabrication, designing and leading workshops, providing one-on-one assistance for people seeking to improve digital literacy skills.</sub> 
-   
+### **Chicago Public Library** – February 2013 to July 2019
+- **Multi-Departmental Instructional Designer**  
+(Senior Maker Lab Specialist II 2013-2019)  
+(Lead YOUmedia Computer Science Mentor 2016-2019)  
+(Cyber Navigator 2013)
+    - Led a team of seven instructional design specialists creating learning experiences and activations around 2D and 3D design
+    - Led a Design Thinking team in delivering new staff training methods for learning and development of new library technology
+    - Developed makersinchicago.org for promoting communication across makerspace and organizations in the metro-area
+	- Developed and facilitated MOOCs for computer programming in partnerships with P2PU. (HTML/CSS, Java, XML, Python)
+    - Represented CPL at conferences across the US such as GDC in San Francisco and MIT’s Scratch Conference in Cambridge
+    - Collaborated with librarians on the use of SharePoint to cross-train and improve organizational knowledge management
+    - Implemented a network of computer systems across branches for introducing design, PC-gaming, streaming, and podcasting
+    - Supervised the collection of data and delivered regular reports for continued funding in the form of talks, and grant writing
+    - Managed the repairs and maintenance of AV and lab hardware including 3D printers, laser cutters, milling routers, computers
+    - Mentor teens particularly in the topics of computer science and maker skills. Create and facilitate certification processes for using equipment like 3D printers, plotters, and robotics kits. Develop a foundation of tools to enable teens to explore interests such as computer hardware, microprocessors, computer programming, virtual reality, and more.
 
-**YOUmedia Chicago - Lead Mentor** – 2016-2019  
-<sub>
-Mentor teens particularly in the topics of computer science and maker skills. Create and facilitate certification processes for using equipment like 3D printers, plotters, and robotics kits. Develop a foundation of tools to enable teens to explore interests such as computer hardware, microprocessors, computer programming, virtual reality, and more.</sub>
-
-**Cyber Navigator** – 2013  
-<sub>Aid patrons develop and improve digital literacy skills by helping them tackle a range of individual technological obstacles or facilitate their explorations into software applications and processes for content creation.</sub>
-
-**Library Page** – 2013-2017  
-<sub>Help sort, retrieve, and shelve books plus clerical work on the circulation desk.</sub>
+- **Library Page** – 2013-2016
 
 
-###Projects
+## Projects
 
 [CPL’s Special Collection Harold Washington Sculpture Digitization](https://www.chipublib.org/news/diy-mayor-harold-washington-bust/)  
 [MakersinChicago.org](http://makersinchicago.org/)  and [@makersinchicago](https://twitter.com/makersinchicago)  
 [MIT Media Lab’s SPIN]() – [Tiffany Tseng's Original](http://spin.media.mit.edu/)  
 
-###Outreach
+## Outreach
 
-**CPL Maker Lab Ambassador**  
-<sub>CPL Foundation’s Night at the Stacks – 2016, 2017, 2018  
+### CPL Maker Lab Ambassador
+: CPL Foundation’s Night at the Stacks – 2016, 2017, 2018  
 Pocket Con – 2014, 2015, 2016  
-LakeFX – 2015, 2016  </sub>
+LakeFX – 2015, 2016 
 
-**Scratch & Finch**  
-<sub>
-Make Take Teach Fair – 2016  
+### Scratch & Finch
+
+: Make Take Teach Fair – 2016  
 Southside Chicago Mini Maker Fair – 2014, 2015, 2016  
 1000k Opportunities – 2015  
 Illinois Hispanic Business Expo – 2015  
 MIND Research Institute Math Fair – 2015  
 Gates Foundation HOMAGO at CPL – 2014  
 Google’s Geek Street – 2015  
-Tomorrow’s Technology Today – 2017, 2018  </sub>
+Tomorrow’s Technology Today – 2017, 2018
 
-**Media Appearances**  
-<sub>
-[Around Town (WGN) - West Loop YOUmedia/STEM Resources](https://wgntv.com/2019/02/05/around-town-checks-out-the-new-west-loop-branch-chicago-public-library/)  
+### Media Appearances  
+: [Around Town (WGN) - West Loop YOUmedia/STEM Resources](https://wgntv.com/2019/02/05/around-town-checks-out-the-new-west-loop-branch-chicago-public-library/)  
 Chicago Tonight (WTTW) – CPL  
 [You & Me (WCUI) – Geek Street/Finch](https://www.chipublib.org/news/join-cpl-at-geek-street-powered-by-google/)  
 Around Town (WGN) – Chinatown Branch Circulating Tech/Finch  
 Nerdologues (Podcast) – Maker Lab  
 Pop Up Youth Radio (Podcast) – Maker Lab/Finch  
 Gadget Guide (Chicago Tribune) – Reviewer  
-</sub>
 
-___
 
----
-
-##Personal Bio
-[Link]()- In Progress
+# Blog Roll
+[Hackaday](https://hackaday.com/)  
+[Flickerings — In the Gloam](https://www.inthegloam.com/wrdz)  
+[Spudart](https://www.spudart.org/)  
+[The Over Examined Life](https://overexamined.life/)  
+[Alexandra Franzen](http://www.alexandrafranzen.com/new/)  
+...going through my bookmarks in May 2020

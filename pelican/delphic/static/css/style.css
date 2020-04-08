@@ -1,3 +1,8 @@
+/*
+Design by Jorge Garcia
+jorge@jorgegarcia.io
+*/
+
 body {
 	font-family: 'Roboto', sans-serif;
 	color: #7D7D7D;
@@ -17,17 +22,26 @@ body {
 	border-bottom: 4px solid #000;
 }
 
+.banner > h1 {
+	font-family: 'Courier New';
+	font-size: 2.8rem;
+	border: .125rem solid #fff;
+}
+
 .bannerpurp {
 	border-top: 4px solid #9771B0;
 	margin-top: 1rem;
 }
-p {
-	
-}
 
-h1, h2 {
-	font-family: 'Courier New';
+h1 {
+	font-size: 3.2rem;
 	font-weight: 900;
+	color: #4D4D4D;
+	width: auto;
+	font-family: 'Courier New', sans-serif;
+	border-bottom: 4px solid;
+	border-image-source: linear-gradient(90deg, #9771B0, #fff, #fff);
+	border-image-slice: 1;
 }
 
 sub {
@@ -71,7 +85,7 @@ p > a > img {
 li.current{
 	font-weight: 700;
 	text-decoration: underline;
-	
+
 }
 
 #content {
@@ -242,8 +256,8 @@ blockquote > p {
 	margin-top: -1em;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
 p > img {
-	max-width: 350px;
+	max-width: 49%;
   }
 }
