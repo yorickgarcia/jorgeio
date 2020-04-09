@@ -5,16 +5,10 @@ jorge@jorgegarcia.io
 
 body {
 	font-family: 'Roboto', sans-serif;
-	background-image: url(/images/cloudfightduringcovidtimes.jpg);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center;
+	color: #7D7D7D;
 	overflow-y:scroll;
 }
 
-.container {
-	background-color: #7D7D7D;
-}
 
 .logo {
 	width: 100%;
