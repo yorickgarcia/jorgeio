@@ -245,6 +245,13 @@ img.avatar {
     border-radius: 50%;
 }
 
+img.wide {
+	width: 100%;
+	display: inline-block;
+	border-radius: 2rem;
+	margin-bottom: .42rem;
+}
+
 details {
 
 }
