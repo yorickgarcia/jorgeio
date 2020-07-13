@@ -246,7 +246,7 @@ img.avatar {
 }
 
 img.wide {
-	width: 100%;
+	max-width: 100%;
 	display: inline-block;
 	border-radius: 2rem;
 	margin-bottom: .42rem;
