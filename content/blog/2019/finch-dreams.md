@@ -7,5 +7,5 @@ Summary: That time we explored new training methods
 HeaderImage: /images/kahoot.png
 HeaderImageCaption: 
 
-Slide include as PDF, will add write up later.
+(Slide)[https://docs.google.com/presentation/d/1sBafX8Q6fzuFmFIkqesoMEI7zy0kKoiJ]
 

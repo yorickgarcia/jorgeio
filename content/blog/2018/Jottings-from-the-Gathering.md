@@ -25,7 +25,7 @@ What I took most from this workshop was inspiration. During the event Maureen in
 
 ####Hummingbird
 
-I've worked with hummingbirds in the past. I made a special request for them after being awarded a grant in YM. We wanted to make battle-bots out of these guys and we are not far from doing so! I didn't snag a ticket in time but Brandy had one and I am really grateful she gave me one during the opening ceremony. I went in to take any bit of information back, we used them lightly and some of the teens in the space struggled with them and it led us to doing workshop starting with the basic physics of circuits. It was a healthy deviation. During this workshop I made a wonderful friend in Vicky Luk, a primary school teacher from overseas. Later, I learned a lot about the policies and the school culture in her hometown. She comes from a background as an English Major but has found a new mainstay in Computer Science. We were tasked here with re creating a scene from where the wild things are. We use a servo and some LED's to close of the story. My reading cadence didn't match up, whoops. See [here](https://www.youtube.com/watch?v=gBlN-Dt-m1g).
+I've worked with hummingbirds in the past. I made a special request for them after being awarded a grant in YM. We wanted to make battle-bots out of these guys and we are not far from doing so! I didn't snag a ticket in time but Bambi had one and I am really grateful she gave me one during the opening ceremony. During this workshop I made a wonderful friend in Vicky Luk, a primary school teacher from overseas. Later, I learned a lot about the policies and the school culture in her hometown. She comes from a background as an English Major but has found a new mainstay in Computer Science. We were tasked here with re creating a scene from where the wild things are. We use a servo and some LED's to close of the story. My reading cadence didn't match up, whoops. See [here](https://www.youtube.com/watch?v=gBlN-Dt-m1g).
 
 ####Day 2 Keynote- Creativity is Subtraction
 
@@ -34,3 +34,5 @@ I've worked with hummingbirds in the past. I made a special request for them aft
 The rest
 
 maybe one day...
+
+2021 edit: ####TurtleStitch
