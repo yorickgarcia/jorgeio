@@ -82,6 +82,6 @@ LINKS = (
 
 SITES = (
     ('MakersinChicago.org','https://makersinchicago.org'),
-    ('⋛⋋[±0dB]⋌⋚','https://finchdreams.com'),
+    ('⋛⋋[±0dB]⋌⋚','https://ko-fi.com/yorickgarcia'),
     ('CyberNavigator.info','https://cybernavigator.info'),
 )
