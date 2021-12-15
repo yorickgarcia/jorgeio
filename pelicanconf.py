@@ -74,10 +74,10 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 #     ('Library','/pages/library'),
     
 LINKS = (
-    ('Home', '/'),
-    ('Projects', '/pages/projects'),
-    ('Gallery', '/pages/gallery'),
-    ('About', '/pages/about'),
+#    ('Home', '/'),
+#    ('Projects', '/pages/projects'),
+#    ('Gallery', '/pages/gallery'),
+#    ('About', '/pages/about'),
 )
 
 SITES = (
