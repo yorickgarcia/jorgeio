@@ -1,6 +1,6 @@
 Title: Birding
 Date: 2022-03-21
-Category: Blog
+Category: Birding
 Tags: birds
 Author: yorickgarcia
 Summary: So Anyway, I Started Birding
