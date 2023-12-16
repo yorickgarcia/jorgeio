@@ -6,7 +6,7 @@ from datetime import date
 AUTHOR = 'Jorge Garcia'
 SITENAME = 'jorgegarcia.io'
 SITEURL = ''
-AUTHOR_INTRO = 'I make, break, and fix things to learn– teaching and consulting on technology along the way.'
+AUTHOR_INTRO = 'Focused on avian education and conversation—teaching and consulting on technology along the way.'
 CURRENTYEAR = date.today().year
 
 PATH = 'content'
